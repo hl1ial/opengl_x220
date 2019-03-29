@@ -12,7 +12,7 @@ Make sure to download the version that fits your Windows version, so if you have
 
 We only need the *Application Compatibility Tools* module, so choose this in the installer:
 
-![adk-compatibility-tools](adk-compatibility-tools.png)
+![adk-compatibility-tools](https://user-images.githubusercontent.com/7920910/55222684-d3eb2900-520c-11e9-901c-007f597caf83.png)
 
 ## 2. Use the Compatibility Administrator to create the fix
 
