@@ -20,35 +20,35 @@ Make sure to start the relevant 32 or 64 bit version of the program, based on wh
 
 Right click the *New Database* menu entry, and choose *Create New -> Application Fix...*
 
-![new-application-fix](new-application-fix.png)
+![new-application-fix](https://user-images.githubusercontent.com/7920910/55222721-e2394500-520c-11e9-87fe-ea399bcc5a56.png)
 
 Give the fix a name, and browse for the executable file you want to add the fix for. In this example I am adding the fix for Python 3 64 bit programs, so I locate python.exe in C:\Program Files\Python37.
 
-![new-application-fix-2](new-application-fix-2.png)
+![new-application-fix-2](https://user-images.githubusercontent.com/7920910/55222727-e4030880-520c-11e9-8eb0-80d975ee423e.png)
 
 Then click Next. We do not choose anything on this *Compatibility Modes* page, so just click Next again.
 
-![compatiblity-mode](compatibility-mode.png)
+![compatibility-mode](https://user-images.githubusercontent.com/7920910/55222713-dea5be00-520c-11e9-84e9-0429cff09df6.png)
 
 On the *Compatibility Fixes* page, scroll down and check the *Win81RTMVersionLie* option. Then click the *Parameters* button.
 
-![compatibility-fix](compatibility-fix.png)
+![compatibility-fix](https://user-images.githubusercontent.com/7920910/55222693-d6e61980-520c-11e9-93c4-ae24985a451c.png)
 
 In the Parameters dialog box, *Module name:* field, type: ig4icd64.dll then click *Add* and then *OK*.
 
-![compatibility-fix-2](compatibility-fix-2.png)
+![compatibility-fix-2](https://user-images.githubusercontent.com/7920910/55222694-d8174680-520c-11e9-9a31-04d17b6d82f3.png)
 
 Click *Next* to the *Matching Information* page. Here, deselect all except the company name and product name options, then click *Finish*.
 
-![compatibility-fix-3](compatibility-fix-3.PNG)
+![compatibility-fix-3](https://user-images.githubusercontent.com/7920910/55222702-da79a080-520c-11e9-9ed2-76b3f5f2336c.png)
 
 We have now created the fix needed, next is to save and install it.
 
-![compatibility-fix-4](compatibility-fix-4.PNG)
+![compatibility-fix-4](https://user-images.githubusercontent.com/7920910/55222706-dc436400-520c-11e9-97cf-f2fc2c9bedf7.PNG)
 
 Click the *Save* icon, and choose a name for the database. You will also need to choose a place to save the file and give the file a name, I just saved to the Documents folder.
 
-![save-database](save-database.png)
+![save-database](https://user-images.githubusercontent.com/7920910/55222736-e6656280-520c-11e9-831d-0b629ed7bab2.png)
 
 When the database is saved, you can right click the database you just saved, and choose *Install*.
 
